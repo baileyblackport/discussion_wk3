@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+h1 {
+    color: rgb(255, 0, 166);
+    background-color: pink;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(255, 0, 238);
+    background-color: pink;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+}
